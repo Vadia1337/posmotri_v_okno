@@ -44,7 +44,7 @@ html {
   display: grid;
   grid-template-columns: 1.65fr 1fr;
   grid-column-gap: 27px;
-  min-height: 621px;
+  margin-top: -91px;
 }
 
 .search-form {
